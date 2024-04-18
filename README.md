@@ -17,7 +17,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=emmanuel-mejia&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-mejia" /> </p>
 
 <p align="center">
-    I’m Emmanuel, a software engineer specializing in Python development, dedicated to enhancing software solutions. Currently, I’m seeking opportunities to collaborate on projects within the financial and machine learning domains.
+    I’m Emmanuel, a Software Engineer focused on building better Financial products with in Python.
 </p>
 
 <h1 align="center">
