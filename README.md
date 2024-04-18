@@ -47,13 +47,10 @@
 </p>
 
 <h3 align="left"> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25'/> My Github Stats:</h3>
-<h4 <p align="left"> Top Langs </h4> 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-mejia&layout=compact&text_color=daf7dc&bg_color=151515&hide=css"/></a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-mejia&theme=dark"/></a>
 
-| <a href="https://github.com/emmanuel-mejia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuel-mejia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Emmanuel's github stats" /></a> | <a href="https://github.com/emmanuel-mejia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-mejia&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/emmanuel-mejia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-mejia&layout=compact&theme=buefy&hide_border=true" /></a>
 
-| ------------- | ------------- |
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuel-mejia" alt="emmanuel-mejia"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuel-mejia" alt="emmanuel-mejia" width="60" height="60"/></a> </p>
 
