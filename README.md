@@ -9,7 +9,9 @@
 <a href="https://dev.to/emmanuel-mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="emmanuel-mj" height="30" width="40" /></a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=emmanuel-mejia&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-mejia" /> </p>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=emmanuel-mejia&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-mejia"/> 
+</p>
 
 <p align="center"> I’m Emmanuel, a Software Engineer focused on building products with Python. ≤/p>
 
@@ -18,7 +20,7 @@
 <h3> <p align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me: </p> </h3>
 
 <ul>
-    <li>👨‍💻 I’m currently learning **TensorFlow**</li>
+    <li>👨‍💻 I’m currently learning TensorFlow</li>
     <li>💬 I speak English, French, Spanish and currently learning German</li>
     <li>📫 How to reach me emmanuel.mejia.jimenez@gmail.com</li>
 </ul>
@@ -52,5 +54,5 @@
 
 <a href="https://github.com/emmanuel-mejia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-mejia&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuel-mejia" alt="emmanuel-mejia" width="60" height="60"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuel-mejia" alt="emmanuel-mejia"/></a> </p>
 
