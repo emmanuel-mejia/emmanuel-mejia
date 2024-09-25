@@ -11,7 +11,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=emmanuel-mejia&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-mejia"/> </p>
 
-<p align="center"> I’m Emmanuel, a Software Engineer focused on building better code. </p>
+<p align="center"> I’m Emmanuel, an Engineer focused on building better code and solutions. </p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/emmanuel-mejia/emmanuel-mejia/main/images/sixtina-human-AI.png"/></h1>
 
