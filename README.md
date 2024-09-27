@@ -18,9 +18,9 @@
 <h3> <p align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me: </p> </h3>
 
 <ul>
-    <li>👨‍💻 I’m currently acquiring knowledge of Machine Learning</li>
-    <li>💬 I speak English, French, Spanish and I'm learning German</li>
-    <li>📫 How to reach me emmanuel.mejia.jimenez@gmail.com</li>
+    <li>👨‍💻 I’m currently acquiring knowledge of Machine Learning.</li>
+    <li>💬 I speak English, French, Spanish fluently and German at a B1 level.</li>
+    <li>📫 How to reach me info@emmanuelmj.io</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
