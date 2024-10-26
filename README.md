@@ -4,9 +4,9 @@
 <a href="https://twitter.com/ndroyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndroyt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel-mejia-b4068030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-mejia-b4068030" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/androyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="androyt" height="30" width="40" /></a>
-<a href="https://exercism.org/profiles/emmanuel-mejia" target="blank"><img align="center" src="https://github.com/exercism/website-icons/blob/main/emoji/exercism.png" alt="androyt" height="30" width="40" /></a>
 <a href="https://discord.gg/_androyt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_androyt_" height="30" width="40" /></a>
 <a href="https://dev.to/emmanuel-mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="emmanuel-mj" height="30" width="40" /></a>
+<a href="https://exercism.org/profiles/emmanuel-mejia" target="blank"><img align="center" src="https://github.com/exercism/website-icons/blob/main/emoji/exercism.png" alt="androyt" height="30" width="40" /></a>
 <a href="https://instagram.com/androyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="androyt" height="30" width="40" /></a>
 </p>
 
